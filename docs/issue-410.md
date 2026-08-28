@@ -148,7 +148,7 @@
 
 比尔盖茨本周发表了一篇文章，提出 AI 有风险，应该减缓发展速度。
 
-但是，他在20023年发表过一篇完全相反的文章[《AI 的风险是可控的》](https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/the-risks-of-ai-are-real-but-manageable)。
+但是，他在2023年发表过一篇完全相反的文章[《AI 的风险是可控的》](https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/the-risks-of-ai-are-real-but-manageable)。
 
 ![](https://cdn.beekka.com/blogimg/asset/202608/bg2026082710.webp)
 
