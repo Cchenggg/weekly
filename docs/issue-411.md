@@ -338,7 +338,7 @@ Go 语言编写的 Z-Library 图书馆命令行工具。（[@heartleo](https://g
 
 不要把运动和进步混淆，摇摇木马一直在动，但并没有取得任何进步。
 
-—— [阿尔弗雷德·A·蒙塔珀特](https://graybeard.ing/the-religion-of-speed/)，美国作家
+-- [阿尔弗雷德·A·蒙塔珀特](https://graybeard.ing/the-religion-of-speed/)，美国作家
 
 ## 往年回顾
 
